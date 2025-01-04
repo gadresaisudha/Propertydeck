@@ -91,8 +91,11 @@ now in local machine:
 >>>> git clone "url"
 project gets clone to local machine
 
+git stage changes
 >>>git add .
->>>git commit -am "Added Github actions"
+git commit changes
+>>>git commit -m "Added Github actions"
+git push to origin
 >>>>git push origin
 
 
