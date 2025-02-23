@@ -99,3 +99,18 @@ git push to origin
 >>>>git push origin
 
 
+superuser details:
+sudhagadre@example.com
+sudha123
+
+other users:
+user1@example.com
+user123
+
+cd_user_access_key_id = "AKIA2UC3AEBTWNHBSKNK"
+cd_user_access_key_secret = <sensitive>
+
+cd_user_access_key_id = "AKIA2UC3AEBTWNHBSKNK"
+cd_user_access_key_secret = <sensitive>
+ecr_repo_app = "730335289447.dkr.ecr.us-east-1.amazonaws.com/property-app-api-app"
+ecr_repo_proxy = "730335289447.dkr.ecr.us-east-1.amazonaws.com/property-app-api-proxy"
